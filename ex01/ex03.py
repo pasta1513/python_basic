@@ -1,0 +1,6 @@
+n1 = input('수 입력: ')
+print(n1)
+n2 = input('수 입력: ')
+print(n2)
+print(n1 + n2)
+print(int(n1) + int(n2))
